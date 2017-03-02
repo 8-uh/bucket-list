@@ -22,4 +22,9 @@ Just a list of ideas I've randomly had that I look back at when I need something
 1. p5.pixi.js - PIXI.js (WEBGL) 2D renderer for p5.js
 2. p5.two.js - two.js 2D Renderer for p5.js
 3. [pframe5-IDE](http://github.com/8-uh/pframe5-ide) - an IDE created for p5.js creative coding
-4. 
+
+
+## Small (~Weekend)
+1. Counter Culture Guide to Dallas - Map + Pinpoints + Description of favorite Dallas Spots
+
+## Tiny (Afternoon/Coffeebreak)
