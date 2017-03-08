@@ -28,3 +28,4 @@ Just a list of ideas I've randomly had that I look back at when I need something
 1. Counter Culture Guide to Dallas - Map + Pinpoints + Description of favorite Dallas Spots
 
 ## Tiny (Afternoon/Coffeebreak)
+1. p5 Color Theme Library - Use the Base-16 color theme syntax to allow for interchangable themeing for p5 sketches
